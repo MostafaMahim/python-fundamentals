@@ -5,13 +5,14 @@ Started: July 1, 2026
 
 ## Current Progress
 📍 Day 1 complete — moving to Day 2 (Lists, Tuples, Sets)
+📍 Day 2 complete — Classroom manager w/ enumerate + sorted roster
 
 ## Progress Tracker
 
 | Day | Topic | Status | Notes |
 |-----|-------|--------|-------|
 | 1 | Variables, data types, strings | ✅ | Shop bill calculator w/ conditional discount |
-| 2 | Lists, tuples, sets | ✅ | |
+| 2 | Lists, tuples, sets | ✅ | | Classroom manager w/ enumerate + sorted roster
 | 3 | Dictionaries | ⬜ | |
 | 4 | Conditions, while loops | ⬜ | |
 | 5 | Functions | ⬜ | |
