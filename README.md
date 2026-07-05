@@ -14,9 +14,9 @@ Started: July 1, 2026
 
 | Day | Topic | Status | Notes |
 |-----|-------|--------|-------|
-| 1 | Variables, data types, strings | ✅ | Shop bill calculator w/ conditional discount |
-| 2 | Lists, tuples, sets | ✅ | | Classroom manager w/ enumerate + sorted roster
-| 3 | Dictionaries | ✅ | |  dictionaries, nested dicts, comprehensions, zip, grade book
+| 1 | Variables, data types, strings | ✅ | Done
+| 2 | Lists, tuples, sets | ✅ | | Done
+| 3 | Dictionaries | ✅ | |  Done
 | 4 | Conditions, while loops | ⬜ | |
 | 5 | Functions | ⬜ | |
 | 6 | File handling | ⬜ | |
