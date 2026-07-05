@@ -12,7 +12,7 @@ Started: July 1, 2026
 
 ## Progress Tracker
 
-| Day | Topic | Status | Notes |
+| Day | Topic | Status |                 Notes |
 |-----|-------|--------|-------|
 | 1 | Variables, data types, strings | ✅ | Done
 | 2 | Lists, tuples, sets | ✅ | | Done
