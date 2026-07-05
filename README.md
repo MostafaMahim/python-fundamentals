@@ -4,8 +4,10 @@ Daily practice on my way to AI Engineering. One folder per day, pushed daily.
 Started: July 1, 2026
 
 ## Current Progress
-📍 Day 1 complete — moving to Day 2 (Lists, Tuples, Sets)
+📍 Day 1 complete — moving to Day 2 (Lists, Tuples, Sets
+
 📍 Day 2 complete — Classroom manager w/ enumerate + sorted roster
+
 📍 Day 3 complete — dictionaries, nested dicts, comprehensions, zip, grade book
 
 ## Progress Tracker
