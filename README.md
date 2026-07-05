@@ -6,6 +6,7 @@ Started: July 1, 2026
 ## Current Progress
 📍 Day 1 complete — moving to Day 2 (Lists, Tuples, Sets)
 📍 Day 2 complete — Classroom manager w/ enumerate + sorted roster
+📍 Day 2 complete — dictionaries, nested dicts, comprehensions, zip, grade book
 
 ## Progress Tracker
 
@@ -13,7 +14,7 @@ Started: July 1, 2026
 |-----|-------|--------|-------|
 | 1 | Variables, data types, strings | ✅ | Shop bill calculator w/ conditional discount |
 | 2 | Lists, tuples, sets | ✅ | | Classroom manager w/ enumerate + sorted roster
-| 3 | Dictionaries | ⬜ | |
+| 3 | Dictionaries | ✅ | |  dictionaries, nested dicts, comprehensions, zip, grade book
 | 4 | Conditions, while loops | ⬜ | |
 | 5 | Functions | ⬜ | |
 | 6 | File handling | ⬜ | |
