@@ -15,8 +15,8 @@ Started: July 1, 2026
 | Day | Topic | Status |                 Notes |
 |-----|-------|--------|-------|
 | 1 | Variables, data types, strings | ✅ | Done
-| 2 | Lists, tuples, sets | ✅ | | Done
-| 3 | Dictionaries | ✅ | |  Done
+| 2 | Lists, tuples, sets | ✅  | Done
+| 3 | Dictionaries | ✅  |  Done
 | 4 | Conditions, while loops | ⬜ | |
 | 5 | Functions | ⬜ | |
 | 6 | File handling | ⬜ | |
