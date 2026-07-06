@@ -4,17 +4,20 @@ Daily practice on my way to AI Engineering. One folder per day, pushed daily.
 Started: July 1, 2026
 
 ## Current Progress
-📍 Day 1 complete — moving to Day 2 (Lists, Tuples, Sets)
+📍 Day 1 complete — moving to Day 2 (Lists, Tuples, Sets
+
 📍 Day 2 complete — Classroom manager w/ enumerate + sorted roster
+
+📍 Day 3 complete — dictionaries, nested dicts, comprehensions, zip, grade book
 
 ## Progress Tracker
 
-| Day | Topic | Status | Notes |
+| Day | Topic | Status |                 Notes |
 |-----|-------|--------|-------|
-| 1 | Variables, data types, strings | ✅ | Shop bill calculator w/ conditional discount |
-| 2 | Lists, tuples, sets | ✅ | | Classroom manager w/ enumerate + sorted roster
-| 3 | Dictionaries | ⬜ | |
-| 4 | Conditions, while loops | ⬜ | |
+| 1 | Variables, data types, strings | ✅ | Done
+| 2 | Lists, tuples, sets | ✅  | Done
+| 3 | Dictionaries | ✅  |  Done
+| 4 | Conditions, while loops |  ✅ | Done
 | 5 | Functions | ⬜ | |
 | 6 | File handling | ⬜ | |
 | 7 | Error handling | ⬜ | |
