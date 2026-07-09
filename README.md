@@ -18,7 +18,7 @@ Started: July 1, 2026
 | 2 | Lists, tuples, sets | ✅  | Done
 | 3 | Dictionaries | ✅  |  Done
 | 4 | Conditions, while loops |  ✅ | Done
-| 5 | Functions | ⬜ | |
+| 5 | Functions | ✅ | Done 
 | 6 | File handling | ⬜ | |
 | 7 | Error handling | ⬜ | |
 | 8 | OOP basics | ⬜ | |
