@@ -19,7 +19,7 @@ Started: July 1, 2026
 | 3 | Dictionaries | ✅  |  Done
 | 4 | Conditions, while loops |  ✅ | Done
 | 5 | Functions | ✅ | Done 
-| 6 | File handling | ⬜ | |
+| 6 | File handling | ✅  | Done |
 | 7 | Error handling | ⬜ | |
 | 8 | OOP basics | ⬜ | |
 | 9 | OOP: inheritance & polymorphism | ⬜ | |
