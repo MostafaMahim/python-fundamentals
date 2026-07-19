@@ -20,7 +20,7 @@ Started: July 1, 2026
 | 4 | Conditions, while loops |  ✅ | Done
 | 5 | Functions | ✅ | Done 
 | 6 | File handling | ✅  | Done |
-| 7 | Error handling | ⬜ | |
+| 7 | Error handling | ✅  | Done|
 | 8 | OOP basics | ⬜ | |
 | 9 | OOP: inheritance & polymorphism | ⬜ | |
 | 10 | OOP: dunder methods | ⬜ | |
